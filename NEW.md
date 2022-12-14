@@ -1,1 +1,1 @@
-New meldung.
+!New message!
